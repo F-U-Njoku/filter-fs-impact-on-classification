@@ -5,7 +5,7 @@ Implementations in [scikit-feature](https://jundongl.github.io/scikit-feature/in
 ```
 pip install -r requirements.txt
 ```
-After navigating to the path where the experiment scripts are stored (do make sure youe VE is activated), a script is executed with the following command:
+After navigating to the path where the experiment scripts are stored (do make sure your VE is activated), a script is executed with the following command:
 ```
 python script-name.py >> outputfile-name.csv
 ```
