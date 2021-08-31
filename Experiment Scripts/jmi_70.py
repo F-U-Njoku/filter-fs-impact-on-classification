@@ -31,10 +31,10 @@ openml_datasets = [1015,1464,793,931,1021,40983,819,841,
 275,277,377,1518,41972,1560,1468,40499]
 
 # TT --> Training time
-#print ("FS runtime, Base NB TT, 0.7 NB TT, Base NB accuracy, 0.7 NB accuracy,",
- #   "Base KNN TT, 0.7 KNN TT, Base KNN accuracy, 0.7 KNN accuracy,",
-  #  "Base LDA TT, 0.7 LDA TT, Base LDA accuracy, 0.7 LDA accuracy,",
-   # "Base MLP TT, 0.7 MLP TT, Base MLP accuracy, 0.7 MLP accuracy")
+print ("FS runtime, Base NB TT, 0.7 NB TT, Base NB accuracy, 0.7 NB accuracy,",
+    "Base KNN TT, 0.7 KNN TT, Base KNN accuracy, 0.7 KNN accuracy,",
+    "Base LDA TT, 0.7 LDA TT, Base LDA accuracy, 0.7 LDA accuracy,",
+    "Base MLP TT, 0.7 MLP TT, Base MLP accuracy, 0.7 MLP accuracy")
 
 for data in openml_datasets:
   dataset = oml.datasets.get_dataset(data)
