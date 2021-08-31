@@ -27,10 +27,10 @@ knn_clf = KNeighborsClassifier()
 lda_clf = LinearDiscriminantAnalysis()
 mlp_clf = MLPClassifier(random_state=1, alpha=0.0)
 
-openml_datasets = [841,1004,1061,41966,834,995,40666,41158,41145,
+openml_datasets = [1015,1464,793,931,1021,40983,819,841,
+1004,1061,41966,834,995,40666,41158,41145,
 4340,1565,40496,1512,40498,1540,375,1526,
 275,277,377,1518,41972,1560,1468,40499]
-#1015,1464,793,931,1021,40983,819,
 
 # TT --> Training time
 print ("FS runtime, Base NB TT,0.4 NB TT, 0.5 NB TT, 0.6 NB TT, 0.7 NB TT, 0.8 NB TT, 0.9 NB TT,",
