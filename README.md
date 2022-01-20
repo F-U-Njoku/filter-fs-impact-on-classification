@@ -26,8 +26,8 @@ Below we present the details of the datasets chosen and used in this work
 |           disclosure_z           |        [931](https://www.openml.org/d/931)        |     2    |     4     |     662    |     0.9981    |  0001  |
 |            page-blocks           |        [1021](https://www.openml.org/d/1021)       |     2    |     11    |    5473    |     0.4763    |  0010  |
 | wilt                             |       [40983](https://www.openml.org/d/40983)       |     2    |     6     |    4839    |     0.3029    |  0010  |
-|            delta_elevators       |        [819](https://www.openml.org/d/819)        |     2    |     7     |    9517    |       1       |  0101  |
-|               stock              |        [841](https://www.openml.org/d/841)        |     2    |     10    |     950    |     0.9995    |  0101  |
+|            delta_elevators       |        [819](https://www.openml.org/d/819)        |     2    |     7     |    9517    |       1       |  0011  |
+|               stock              |        [841](https://www.openml.org/d/841)        |     2    |     10    |     950    |     0.9995    |  0011  |
 |           synthetic_control      |        [1004](https://www.openml.org/d/1004)       |     2    |     61    |     600    |     0.6500    |  0100  |
 |                  ar4             |        [1061](https://www.openml.org/d/1061)       |     2    |     30    |     107    |     0.6950    |  0100  |
 |                isolet            |       [41966](https://www.openml.org/d/41966)       |     2    |    618    |     600    |       1       |  0101  |
