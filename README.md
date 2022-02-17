@@ -53,6 +53,8 @@ Below we present the details of the datasets chosen and used in this work
 |              cnae-9              |        [1468](https://www.openml.org/d/1468)       |     9    |    857    |    1080    |       1       |  1111  |
 |              texture             |       [40499](https://www.openml.org/d/40499)       |    11    |     41    |    5500    |       1       |  1111  |
 
+## Supplementary material
+Besides the results included in the publication we describe here the results for other learning algorithms, particularly Naive Bayes and Multi-layer perceptron.
 ## Contributor
 - Uchechukwu Fortune, Njoku (unjoku@essi.upc.edu)
 
