@@ -55,6 +55,8 @@ Below we present the details of the datasets chosen and used in this work
 
 ## Supplementary material
 Besides the results included in the publication we describe here the results for other learning algorithms, particularly Naive Bayes and Multi-layer perceptron.
+### Model Training Time
+### Accuracy
 ## Contributor
 - Uchechukwu Fortune, Njoku (unjoku@essi.upc.edu)
 
