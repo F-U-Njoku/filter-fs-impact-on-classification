@@ -57,8 +57,20 @@ Below we present the details of the datasets chosen and used in this work
 Besides the results included in the publication we describe here the results for other learning algorithms, particularly Naive Bayes and Multi-layer perceptron.
 ### Model Training Time
 <img src="images/nb_time.png" style="width:500px">
+<img src="images/mlp_time.png" style="width:500px">
 
 ### Accuracy
+
+* Binary Classicication
+<img src="images/nb_binary.png" style="width:500px">
+<img src="images/knn_binary.png" style="width:500px">
+<img src="images/mlp_binary.png" style="width:500px">
+
+* Multi-class Classicication
+<img src="images/nb_multi.png" style="width:500px">
+<img src="images/knn_multi.png" style="width:500px">
+<img src="images/mlp_multi.png" style="width:500px">
+
 ## Contributor
 - Uchechukwu Fortune, Njoku (unjoku@essi.upc.edu)
 
