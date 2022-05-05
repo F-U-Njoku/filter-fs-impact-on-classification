@@ -75,3 +75,4 @@ Besides the results included in the publication we describe here the results for
 - Uchechukwu Fortune, Njoku (unjoku@essi.upc.edu)
 
 ## Citation
+NJOKU, U. F., ABELLÓ, A., BILALLI, B., & BONTEMPI, G. (2022). Impact of filter feature selection on classification: an empirical study.
